@@ -1,6 +1,8 @@
 # Netflix - Google Translate Captions
 
-Translate any netflix shows captions using google translate.
+Translate any netflix shows captions using google translate (Any Language).
+
+<img width="951" alt="screen shot 2017-10-01 at 2 12 34 am" src="https://user-images.githubusercontent.com/3493710/31053256-05c051c4-a64e-11e7-95c3-24720a89a9dd.png">
 
 If I see more usage I'll turn this into a chrome plugin.
 
